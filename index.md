@@ -1,30 +1,22 @@
-## Welcome to GitHub Pages
+# Welcome to Naveen's Website
 
-You can use the [editor on GitHub](https://github.com/navshastri/new/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## I am excited to be a CMC student. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Travelling the World is a Life Dream 
 
-### Markdown
+- St. Louis
+- **Bangalore**
+- _Los Angeles_
+- London 
+- Dubai
+- Morocco 
+- South Africa'
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[South Africa Tourism] (http://country.southafrica.net/country/us/en/)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+[Image] (https://www.gettyimages.com/detail/photo/twelve-apostles-mountain-in-camps-bay-cape-town-royalty-free-image/477451698)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
